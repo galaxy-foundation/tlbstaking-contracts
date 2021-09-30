@@ -1,0 +1,26 @@
+#1 Invalid_sender
+#2 Invalid_ReferalLink
+#3 Overflowed
+#4 Invalid_tier
+
+/* mlm tree */
+#10 invalid sender (avoid admin,zhang,li)
+#11 need admin 
+#12 need pnode
+#13 incorrect refer
+#14 don't use pnode
+#15 need_10%_Tlb
+#16 too_low_invest
+
+/* buy & sell */
+#20 queue_full
+#21 need_hero
+
+/** mining */
+#30 Invalid_tier
+#31 Invalid_miner
+#32 Already_started
+#33 overflow_total_mine
+#34 limited
+
+
